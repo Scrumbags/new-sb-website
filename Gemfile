@@ -2,5 +2,6 @@
 
 source "https://rubygems.org"
 
-gemspec
+gem 'rss'
 
+gemspec
